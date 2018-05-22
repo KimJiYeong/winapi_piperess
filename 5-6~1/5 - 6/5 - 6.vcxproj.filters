@@ -21,6 +21,9 @@
     <ClCompile Include="2017180006.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="save.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
@@ -49,6 +52,9 @@
       <Filter>리소스 파일</Filter>
     </Image>
     <Image Include="bitmap6.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="bitmap7.bmp">
       <Filter>리소스 파일</Filter>
     </Image>
   </ItemGroup>
