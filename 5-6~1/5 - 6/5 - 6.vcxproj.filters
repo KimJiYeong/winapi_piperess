@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PAFF.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="2017180006.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -55,6 +52,33 @@
       <Filter>리소스 파일</Filter>
     </Image>
     <Image Include="bitmap7.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="ani_bit\바나나비행기1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="ani_bit\바나나비행기2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="ani_bit\바나나비행기3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="ani_bit\바나나비행기4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="ani_bit\폭발1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="ani_bit\폭발2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="ani_bit\폭발3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="ani_bit\게임오버.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="ani_bit\일시정지.bmp">
       <Filter>리소스 파일</Filter>
     </Image>
   </ItemGroup>

@@ -115,9 +115,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="2017180006.cpp" />
-    <ClCompile Include="PAFF.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    <ClCompile Include="2017180006.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="save.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
@@ -130,6 +129,15 @@
     <ResourceCompile Include="Resource.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="ani_bit\게임오버.bmp" />
+    <Image Include="ani_bit\바나나비행기1.bmp" />
+    <Image Include="ani_bit\바나나비행기2.bmp" />
+    <Image Include="ani_bit\바나나비행기3.bmp" />
+    <Image Include="ani_bit\바나나비행기4.bmp" />
+    <Image Include="ani_bit\일시정지.bmp" />
+    <Image Include="ani_bit\폭발1.bmp" />
+    <Image Include="ani_bit\폭발2.bmp" />
+    <Image Include="ani_bit\폭발3.bmp" />
     <Image Include="bitmap1.bmp" />
     <Image Include="bitmap2.bmp" />
     <Image Include="bitmap3.bmp" />
